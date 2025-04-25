@@ -1,16 +1,17 @@
-# flutter_application_1
+# Cadastro de Jogo - Flutter 
 
-A new Flutter project.
+Este projeto permite o cadastro de informações sobre jogos, os dados são enviados para uma API teste que foi criada no site MockApi.
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
+## Etapas para rodar o projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-  Clonar o repositório;
+-  Abrir o projeto no VsCode;
+-  Acessar o terminal;
+-  Digitar: flutter run;
+-  Obs: acesse o site mockapi.io e crie uma api. Depois substitua a Url no código.  
